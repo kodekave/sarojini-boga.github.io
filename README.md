@@ -45,7 +45,7 @@ sarojini-website/
 
 ## Things worth customizing later
 
-- **Contact**: currently only the email `sarojboga@gmail.com` is shown.
+- **Contact**: currently only the email `sarojiniboga9575@gmail.com` is shown.
   Phone number and date of birth from the original CV were left out
   on purpose, since this page is public — add them back in `index.html`
   only if you're comfortable with that being visible to anyone.
