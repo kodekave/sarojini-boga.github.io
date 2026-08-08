@@ -53,7 +53,7 @@ sarojini-website/
   were provided. Add them to the `.nav-links` or footer in `index.html`
   whenever ready.
 - **Video**: the trailer embed points at
-  `https://www.youtube.com/embed/qQpMl6mGQm0` inside `#session` in
+  `https://www.youtube.com/embed/oBUVhSJQbio` inside `#session` in
   `index.html` — swap the ID to feature a different session.
 - **Photo**: `assets/hero.png` and `assets/avatar.jpg` were cropped from
   the mall photo provided. Swap either file (keep the same filename) to
